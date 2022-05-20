@@ -42,9 +42,8 @@
 <p align="center"><a href="https://github.com/handrameizaluna"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handrameizaluna&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=handrameizaluna&repo=Alphabot-Md&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=handrameizaluna&repo=Alphab0t&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=handrameizaluna&repo=Haruka&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=handrameizaluna&repo=scritle&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=handrameizaluna&repo=handraweb&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=handrameizaluna&repo=handrameizaluna&theme=nightowl)
 
 
