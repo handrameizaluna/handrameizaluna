@@ -43,7 +43,7 @@
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=handrameizaluna&repo=scritle&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=handrameizaluna&repo=handraweb&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=handrameizaluna&repo=restapi&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=handrameizaluna&repo=handrameizaluna&theme=dark)
 
 
