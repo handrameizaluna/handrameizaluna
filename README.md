@@ -3,14 +3,6 @@
   <img src="https://github.com/handrameizaluna.png" />
 </p>
 
-<p align="center">
-
-- 👤 My name is Handra Joestar.
-- 💌 I am 18 years old 
-- 👨‍💻 I am not programmer
-
-</p>
-
 ------
 ### Connect with me ☎️
 <p align="center">
