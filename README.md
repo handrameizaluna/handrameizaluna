@@ -5,7 +5,7 @@
 
 <p align="center">
 
-- 👤 My name is zeeoneofc
+- 👤 My name is Handra Joestar.
 - 💌 I am 18 years old 
 - 👨‍💻 I am not programmer
 
