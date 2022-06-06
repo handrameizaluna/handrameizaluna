@@ -13,13 +13,6 @@
   <a href="https://github.com/handrameizaluna"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
 </p>
 
-### Pubg mobile 🎮
-<p align="center">
-  <img src="https://github.com/handrameizaluna/handraweb/blob/245f2f16c17026506df15a0759bfdd27e69bc312/luffy.mp4" />
-</p>
-
-------
-
 ### Spotify Playing 🎧
 
 <p align="center">
